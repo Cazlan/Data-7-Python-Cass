@@ -71,3 +71,5 @@
     #     print("the value is: "+ value )
     #     print(str(value))
 
+test = 15 % 15
+print(test)
